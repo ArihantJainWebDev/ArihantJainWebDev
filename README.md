@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Arihant Jain 👋
+Full-Stack & AI Developer | Hackathon Finalist | Founder of Drapels  
+I build real-world products and contribute to open-source. Always learning and exploring new technologies with a focus on MERN, Next.js, and AI integrations.
 
-<!--
-**ArihantJainWebDev/ArihantJainWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### Drapels
+> Developer ecosystem platform simplifying learning, collaboration, and project development for engineers.  
+[GitHub Repo](YOUR_DRAPELS_REPO_LINK) | [Live Demo](YOUR_DRAPELS_LIVE_LINK)
+
+### Gemini Clone
+> AI-powered chatbot interface with search history and typing animations.  
+[GitHub Repo](YOUR_GEMINI_REPO_LINK) | [Live Demo](YOUR_GEMINI_LIVE_LINK)
+
+### IT Solution Website
+> Responsive, production-ready website for a client business.  
+[GitHub Repo](YOUR_IT_WEBSITE_REPO_LINK) | [Live Demo](YOUR_IT_WEBSITE_LIVE_LINK)
+
+### Hackathon Project
+> End-to-end MERN + AI solution, finalist at [Hackathon Name].  
+[GitHub Repo](YOUR_HACKATHON_REPO_LINK) | [Live Demo](YOUR_HACKATHON_LIVE_LINK)
+
+---
+
+## 📊 GitHub Stats
+![Arihant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArihantJainWebDev&show_icons=true&theme=radical)
