@@ -23,7 +23,7 @@ I build real-world products and contribute to open-source. Always learning and e
 
 ### Gemini Clone
 > AI-powered chatbot interface with search history and typing animations.  
-[GitHub Repo]((https://github.com/ArihantJainWebDev/GeminiClone.git)) | [Live Demo](https://gemini-clone-iota-one.vercel.app)
+[GitHub Repo](https://github.com/ArihantJainWebDev/GeminiClone.git) | [Live Demo](https://gemini-clone-iota-one.vercel.app)
 
 ### IT Solution Website
 > Responsive, production-ready website for a client business.  
