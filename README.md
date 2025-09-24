@@ -19,19 +19,19 @@ I build real-world products and contribute to open-source. Always learning and e
 
 ### Drapels
 > Developer ecosystem platform simplifying learning, collaboration, and project development for engineers.  
-[GitHub Repo](YOUR_DRAPELS_REPO_LINK) | [Live Demo](YOUR_DRAPELS_LIVE_LINK)
+[Private Repo] – Available on request | [Live Demo](https://drapels.com)
 
 ### Gemini Clone
 > AI-powered chatbot interface with search history and typing animations.  
-[GitHub Repo](YOUR_GEMINI_REPO_LINK) | [Live Demo](YOUR_GEMINI_LIVE_LINK)
+[GitHub Repo]((https://github.com/ArihantJainWebDev/GeminiClone.git)) | [Live Demo](https://gemini-clone-iota-one.vercel.app)
 
 ### IT Solution Website
 > Responsive, production-ready website for a client business.  
-[GitHub Repo](YOUR_IT_WEBSITE_REPO_LINK) | [Live Demo](YOUR_IT_WEBSITE_LIVE_LINK)
+[Private Repo] – Available on request | [Live Demo](https://comapny-test.vercel.app/)
 
 ### Hackathon Project
-> End-to-end MERN + AI solution, finalist at [Hackathon Name].  
-[GitHub Repo](YOUR_HACKATHON_REPO_LINK) | [Live Demo](YOUR_HACKATHON_LIVE_LINK)
+> End-to-end MERN + AI solution, finalist at SIH.  
+[Private Repo] – Available on request | [Live Demo](https://floatchat-six.vercel.app/)
 
 ---
 
