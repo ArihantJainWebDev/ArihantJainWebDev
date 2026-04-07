@@ -61,9 +61,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arihantjainwebdev&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=arihantjainwebdev&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -73,7 +73,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arihantjainwebdev&theme=tokyo-night"/>
 
 </p>
 
@@ -101,15 +101,15 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/arihant-jain-a6468a2a8">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:arihantjainwebdev@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
 </a>
 
-<a href="https://portfolio-link.com">
+<a href="https://arihantbuilds.in">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
 </a>
 
